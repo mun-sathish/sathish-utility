@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidProjects\SathishApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\AndroidProjects\SathishApp\app\build\intermediates\pre-dexed\debug\classes-31dc9b9df9939ffc8715e9553cbf871ea45fe08e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\SathishApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\AndroidProjects\SathishApp\app\build\intermediates\pre-dexed\debug\classes-f3d4e929b5d4593885d93523ed9d48ba3eda8161.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\SathishApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\AndroidProjects\SathishApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-a9e853824ea54c194a72788b04e06e190ef3853a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sathish Mun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\AndroidProjects\SathishApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-8a4c508e2a3c249d3e41fc5b42e06a3077b7d9b2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\SathishApp\app\build\intermediates\exploded-aar\com.pkmmte.view\circularimageview\1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="D:\AndroidProjects\SathishApp\app\build\intermediates\pre-dexed\debug\classes-3197d67bb025d61c7b458117603257de5799ffc5.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\SathishApp\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="D:\AndroidProjects\SathishApp\app\build\intermediates\pre-dexed\debug\classes-6907bf9a1a5bdaa85285e1e46de2c3c75cdadd2c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\SathishApp\app\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.2.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="92d981b737c081135da787938b9b12d484f42387">
+        <dex dex="D:\AndroidProjects\SathishApp\app\build\intermediates\pre-dexed\debug\classes-6d39c5e235585041112e094c9f07868c8c8bc355.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\SathishApp\app\libs\boilerpipe-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5cbc33db1ec400b429fa203a4dc9758b722ce53b">
+        <dex dex="D:\AndroidProjects\SathishApp\app\build\intermediates\pre-dexed\debug\boilerpipe-1.2.0-b16caa6f6cea60aabb3a1320d522185ca3d0485f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProjects\SathishApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="D:\AndroidProjects\SathishApp\app\build\intermediates\pre-dexed\debug\classes-2b1fdc07148341ac3be967d71444335ebe63ce0f.jar" />
+    </item>
+
+</items>

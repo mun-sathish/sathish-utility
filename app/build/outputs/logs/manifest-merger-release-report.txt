@@ -1,0 +1,326 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionCode
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+supports-screens
+ADDED from AndroidManifest.xml:5:5
+	android:resizeable
+		ADDED from AndroidManifest.xml:9:9
+	android:largeScreens
+		ADDED from AndroidManifest.xml:7:9
+	android:anyDensity
+		ADDED from AndroidManifest.xml:6:9
+	android:normalScreens
+		ADDED from AndroidManifest.xml:8:9
+	android:smallScreens
+		ADDED from AndroidManifest.xml:10:9
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:12:5
+	android:name
+		ADDED from AndroidManifest.xml:12:22
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:13:5
+	android:name
+		ADDED from AndroidManifest.xml:13:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:14:5
+	android:name
+		ADDED from AndroidManifest.xml:14:22
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from AndroidManifest.xml:15:5
+	android:name
+		ADDED from AndroidManifest.xml:15:22
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from AndroidManifest.xml:17:5
+	android:name
+		ADDED from AndroidManifest.xml:17:22
+uses-feature#android.hardware.touchscreen
+ADDED from AndroidManifest.xml:21:5
+	android:required
+		ADDED from AndroidManifest.xml:23:9
+	android:name
+		ADDED from AndroidManifest.xml:22:9
+application
+ADDED from AndroidManifest.xml:25:5
+MERGED from com.android.support:appcompat-v7:22.0.0:22:5
+MERGED from com.android.support:support-v4:22.0.0:22:5
+MERGED from com.android.support:recyclerview-v7:22.0.0:22:5
+MERGED from com.android.support:support-v4:22.0.0:22:5
+MERGED from com.github.traex.rippleeffect:library:1.2.4:12:5
+MERGED from com.pkmmte.view:circularimageview:1.1:11:5
+	android:label
+		ADDED from AndroidManifest.xml:28:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:26:9
+	android:icon
+		ADDED from AndroidManifest.xml:27:9
+	android:theme
+		ADDED from AndroidManifest.xml:30:9
+	android:largeHeap
+		ADDED from AndroidManifest.xml:29:9
+activity#com.sathish.sathishapp.WelcomeScreen
+ADDED from AndroidManifest.xml:31:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:35:13
+	android:label
+		ADDED from AndroidManifest.xml:33:13
+	android:name
+		ADDED from AndroidManifest.xml:32:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:36:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:37:17
+	android:name
+		ADDED from AndroidManifest.xml:37:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:39:17
+	android:name
+		ADDED from AndroidManifest.xml:39:27
+activity#com.sathish.sathishapp.Aboutus
+ADDED from AndroidManifest.xml:42:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:45:13
+	android:label
+		ADDED from AndroidManifest.xml:44:13
+	android:theme
+		ADDED from AndroidManifest.xml:46:13
+	android:name
+		ADDED from AndroidManifest.xml:43:13
+intent-filter#android.intent.category.DEFAULT+android.sathish.ABOUT
+ADDED from AndroidManifest.xml:47:13
+action#android.sathish.ABOUT
+ADDED from AndroidManifest.xml:48:17
+	android:name
+		ADDED from AndroidManifest.xml:48:25
+category#android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:50:17
+	android:name
+		ADDED from AndroidManifest.xml:50:27
+activity#com.sathish.sathishapp.prefs
+ADDED from AndroidManifest.xml:53:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:56:13
+	android:label
+		ADDED from AndroidManifest.xml:55:13
+	android:theme
+		ADDED from AndroidManifest.xml:57:13
+	android:name
+		ADDED from AndroidManifest.xml:54:13
+intent-filter#android.intent.category.DEFAULT+android.sathish.PREFERENCE
+ADDED from AndroidManifest.xml:58:13
+action#android.sathish.PREFERENCE
+ADDED from AndroidManifest.xml:59:17
+	android:name
+		ADDED from AndroidManifest.xml:59:25
+activity#com.sathish.sathishapp.EasyPaint
+ADDED from AndroidManifest.xml:64:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:67:13
+	android:label
+		ADDED from AndroidManifest.xml:66:13
+	android:theme
+		ADDED from AndroidManifest.xml:68:13
+	android:name
+		ADDED from AndroidManifest.xml:65:13
+activity#com.sathish.sathishapp.Dotty
+ADDED from AndroidManifest.xml:70:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:73:13
+	android:label
+		ADDED from AndroidManifest.xml:72:13
+	android:theme
+		ADDED from AndroidManifest.xml:74:13
+	android:name
+		ADDED from AndroidManifest.xml:71:13
+activity#com.sathish.sathishapp.Email
+ADDED from AndroidManifest.xml:76:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:79:13
+	android:label
+		ADDED from AndroidManifest.xml:78:13
+	android:name
+		ADDED from AndroidManifest.xml:77:13
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from AndroidManifest.xml:80:13
+	android:name
+		ADDED from AndroidManifest.xml:81:17
+	android:value
+		ADDED from AndroidManifest.xml:82:17
+activity#com.sathish.sathishapp.ClockActivity
+ADDED from AndroidManifest.xml:84:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:87:13
+	android:label
+		ADDED from AndroidManifest.xml:86:13
+	android:theme
+		ADDED from AndroidManifest.xml:88:13
+	android:name
+		ADDED from AndroidManifest.xml:85:13
+activity#com.sathish.sathishapp.Diary
+ADDED from AndroidManifest.xml:90:9
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:94:13
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:93:13
+	android:label
+		ADDED from AndroidManifest.xml:92:13
+	android:name
+		ADDED from AndroidManifest.xml:91:13
+intent-filter#android.intent.category.DEFAULT+com.sathish.sathishapp.DIARY
+ADDED from AndroidManifest.xml:95:13
+action#com.sathish.sathishapp.DIARY
+ADDED from AndroidManifest.xml:96:17
+	android:name
+		ADDED from AndroidManifest.xml:96:25
+activity#com.sathish.sathishapp.Text
+ADDED from AndroidManifest.xml:105:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:107:13
+	android:name
+		ADDED from AndroidManifest.xml:106:13
+activity#com.sathish.sathishapp.PersonalDiary
+ADDED from AndroidManifest.xml:108:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:111:13
+	android:label
+		ADDED from AndroidManifest.xml:110:13
+	android:name
+		ADDED from AndroidManifest.xml:109:13
+activity#com.sathish.sathishapp.Play
+ADDED from AndroidManifest.xml:112:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:115:13
+	android:label
+		ADDED from AndroidManifest.xml:114:13
+	android:theme
+		ADDED from AndroidManifest.xml:116:13
+	android:name
+		ADDED from AndroidManifest.xml:113:13
+activity#com.sathish.sathishapp.Prefer
+ADDED from AndroidManifest.xml:118:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:121:13
+	android:label
+		ADDED from AndroidManifest.xml:120:13
+	android:theme
+		ADDED from AndroidManifest.xml:122:13
+	android:name
+		ADDED from AndroidManifest.xml:119:13
+activity#com.sathish.sathishapp.MainActivity
+ADDED from AndroidManifest.xml:123:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:126:13
+	android:label
+		ADDED from AndroidManifest.xml:125:13
+	android:theme
+		ADDED from AndroidManifest.xml:127:13
+	android:name
+		ADDED from AndroidManifest.xml:124:13
+intent-filter#android.intent.category.DEFAULT+com.sathish.sathishapp.MAINACTIVITY
+ADDED from AndroidManifest.xml:128:13
+action#com.sathish.sathishapp.MAINACTIVITY
+ADDED from AndroidManifest.xml:129:17
+	android:name
+		ADDED from AndroidManifest.xml:129:25
+activity#com.sathish.sathishapp.SettingsActivity
+ADDED from AndroidManifest.xml:134:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:136:13
+	android:name
+		ADDED from AndroidManifest.xml:135:13
+activity#com.sathish.sathishapp.TypeAndSpeak
+ADDED from AndroidManifest.xml:138:9
+	android:windowSoftInputMode
+		ADDED from AndroidManifest.xml:145:13
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:143:13
+	android:label
+		ADDED from AndroidManifest.xml:141:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:140:13
+	android:theme
+		ADDED from AndroidManifest.xml:144:13
+	android:name
+		ADDED from AndroidManifest.xml:139:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:142:13
+intent-filter#android.intent.action.MAIN+android.intent.category.DEAFAULT
+ADDED from AndroidManifest.xml:146:13
+category#android.intent.category.DEAFAULT
+ADDED from AndroidManifest.xml:149:17
+	android:name
+		ADDED from AndroidManifest.xml:149:27
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:151:13
+action#android.intent.action.SEND
+ADDED from AndroidManifest.xml:152:17
+	android:name
+		ADDED from AndroidManifest.xml:152:25
+data
+ADDED from AndroidManifest.xml:156:17
+	android:mimeType
+		ADDED from AndroidManifest.xml:156:23
+activity#com.sathish.sathishapp.LibraryActivity
+ADDED from AndroidManifest.xml:159:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:162:13
+	android:label
+		ADDED from AndroidManifest.xml:161:13
+	android:name
+		ADDED from AndroidManifest.xml:160:13
+activity#com.sathish.sathishapp.GoogamaphoneActivity
+ADDED from AndroidManifest.xml:164:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:167:13
+	android:exported
+		ADDED from AndroidManifest.xml:166:13
+	android:name
+		ADDED from AndroidManifest.xml:165:13
+activity#com.sathish.sathishapp.Developer
+ADDED from AndroidManifest.xml:168:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:171:13
+	android:label
+		ADDED from AndroidManifest.xml:170:13
+	android:name
+		ADDED from AndroidManifest.xml:169:13
+activity#com.sathish.sathishapp.SecondScreen
+ADDED from AndroidManifest.xml:176:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:179:13
+	android:label
+		ADDED from AndroidManifest.xml:178:13
+	android:name
+		ADDED from AndroidManifest.xml:177:13
+uses-sdk
+INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from com.android.support:appcompat-v7:22.0.0:20:5
+MERGED from com.android.support:support-v4:22.0.0:20:5
+MERGED from com.android.support:recyclerview-v7:22.0.0:20:5
+MERGED from com.android.support:support-v4:22.0.0:20:5
+MERGED from com.github.traex.rippleeffect:library:1.2.4:8:5
+MERGED from com.oguzdev:CircularFloatingActionMenu:1.0.2:7:5
+MERGED from com.pkmmte.view:circularimageview:1.1:7:5
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+activity#android.support.v7.widget.TestActivity
+ADDED from com.android.support:recyclerview-v7:22.0.0:23:9
+	android:label
+		ADDED from com.android.support:recyclerview-v7:22.0.0:25:13
+	android:name
+		ADDED from com.android.support:recyclerview-v7:22.0.0:24:13

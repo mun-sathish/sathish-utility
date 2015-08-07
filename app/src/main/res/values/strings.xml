@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="details">Sathish. V - B.E\n2nd Year, Dept of CSE\nSJBIT.\nmun.sathish@gmail.com\n7353578127</string>
+    <string name="sat1">1) Android Utility Application(This app) that contains the following:\n> Paint\n> Email\n> Personal Diary\n> Hexaphone\n> Type and Listen\n> Oscilloscope\n> Color Clock\n> MultiTouch Tester\n\nPlayStore Link:\n https://play.google.com/store/apps/details?id=com.sathish.sathishapp</string>
+    <string name="sat2">2) Varchasva Android Application - sjbit college fest related app and  registration of tickets is also available.\n\nPlayStore Link:\n https://play.google.com/store/apps/details?id=com.varchasva.varva</string>
+
+    <string name="sat3">3) EVM(Earned Value Management) - Windows Desktop Based Application:\n      \t\t\tAn application for the client people of the IT Companies. This application can keep track of the project progress according to the input given of the current progress.\n\nYouTube Link:\nhttps://www.youtube.com/watch?v=UGOWhpFUuNo</string>
+    <string name="sat4">4) Laser Security Alarm System.\n\nYouTube Link:\nhttps://www.youtube.com/watch?v=nd4QbLPnW68</string>
+    <string name="sat5">5) Automatic Switch on/off\n\nYouTube Link:\nhttps://www.youtube.com/watch?v=md9sbvFP-Qw</string>
+    <string name="sat6">6) Water Level Indicator.\n\nYouTube Link:\nComing Soon... Check Back Later</string>
+    <string name="sat7">7) Mup Software Lab Program Tutorial Videos:\n\t\t\tIts always been a tough subject to understand the lab programs. So inorder to help the students, have made tutorial videos and the link of the playlist is mentioned below.\n\nYouTube Link:\nhttps://www.youtube.com/playlist?list=PL3WAD3UlBnfodvry31wNZIkzO93qCHfi2</string>
+    <string name="sat8">8) Conference:\n \t\t\tI had attended and presented papers on the conference on the following topics.\n\n\n a) Convergence of Artificial Intelligence, Emotional Intelligence, Neural Network and Evolutionary Computing.\n\nb) Driving Unconventional Growth through the Industrial Internet of Things.\n\nc) A Framework for Real Time Health Monitoring on Smart Phones.</string>
+    
+    <string name="app_name">Sathish\nUtility</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sathish">WELCOME TO SATHISH PRODUCT MANAGEMENT</string>
+    
+    
+	<string name="app_description">Check Menu For more Options.\n\nSathish Paint is a coloring tool which helps you to make anything of your imagination.\nPick the color you want and start painting.\n\nPress menu for more options!\n\nHappy painting :)\n\nThis software is released under the Diffulty of Sathish having forgettting his Studies Fully .\n I Dedicate tis app to All My family n Friends of SJBIT, BANGALORE and ST.MARYS SCHOOL, CHENNAI. </string>
+    <string name="here_is_your_canvas">Here is your canvas. Start to paint!</string>
+    <string name="color">Color</string>
+    <string name="emboss">Bold</string>
+    <string name="blur">Blur</string>
+    <string name="brush_size">Brush size</string>
+    <string name="erase">Erase</string>
+    <string name="clear_all">Erase all</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="default_brush_size_is">Default brush size is: %1$s</string>
+    <string name="your_selected_brush_size_is">Your selected brush size is: %1$s</string>
+    <string name="error_brush_size">Please select at least "1" as brush size.</string>
+    <string name="choose_brush_width">Choose your Brush width</string>
+    <string name="saved_your_location_to">Saved your artwork to %1$s</string>
+    <string name="select">Select</string>
+    <string name="continue_fuck">Continue</string> <!-- Workaround to avoid "R.string.continue", that it's as a special class-word! D: -->
+    <string name="ok">OK</string>
+    <string name="pick_color">Pick a Color</string>
+    <string name="toolbox_share_title">Share</string>
+    <string name="share_title_template">Look at what I painted with Sathish Paint! --- Sathish Paint (Simple finger painting) </string>
+    <string name="share_text_template">Share as text</string>
+    <string name="no_way_to_share">Can\'t locate an app to share with…</string>
+    <string name="normal">Pencil</string>
+    <string name="your_selected_eraser_size_is">Your selected eraser size is: %1$s</string>
+    <string name="default_eraser_size_is">Default erase size is: %1$s</string>
+    <string name="error_eraser_size">Please select at least &quot;1&quot; as eraser size.</string>
+    <string name="choose_eraser_width">Choose your Eraser width</string>
+    
+    
+    
+    <string name="start_game">Start Game</string>
+    
+    
+    
+    <string name="hint">Write down what you did, your ideas, your dreams...  Press the “menu” button for more options.</string>
+    <string name="today">Today</string>
+    <string name="prevEntry">Previous</string>
+    <string name="nextEntry">Next</string>
+    <string name="goToDate">Go to date...</string>
+    <string name="copyleft">Copyleft</string>
+    <string name="copyright"><![CDATA[
+        <html>
+          <head><link rel="stylesheet" href="stylesheet.css" /></head>
+          <body>
+            <p><b>Diary - Personal diary for Android</b></p>
+            <p>This app was Developed by SATHISH.</p>
+            <p>SATHISH dedicate this app to all his Family, Friends & Relatives.</p>
+            </body>
+        </html>
+    ]]></string>
+
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <string-array name="tabs">
+    <item>SPLASH</item>
+    <item>FUN EMAIL</item>
+    <item>PERSONAL DIARY</item>
+    <item>HEXAPHONE</item>
+    <item>TYPE AND LISTEN</item>
+    <item>OSCILLOSCOPE</item>
+    <item>COLOR CLOCK</item>
+    <item>MULTI TOUCH</item>
+
+    </string-array>
+    
+    
+    <string name="heading_appearance">Appearance</string>
+	<string name="url">mun.sathish@gmail.com</string>
+	<string name="contact">SATHISH</string>
+	<string name="none">None</string>
+	<string name="default_color_scheme">Black &amp; White</string>
+	<string name="default_instrument">Piano</string>
+	<string name="default_layout">Jammer</string>
+	<string-array name="base_notes">
+		<item>C</item>
+		<item>C#</item>
+		<item>D</item>
+		<item>D#</item>
+		<item>E</item>
+		<item>F</item>
+		<item>F#</item>
+		<item>G</item>
+		<item>G#</item>
+		<item>A</item>
+		<item>A#</item>
+		<item>B</item>
+	</string-array>
+	<string-array name="color_schemes">
+		<item>Black &amp; White</item>
+		<item>Azure</item>
+		<item>Slate</item>
+		<item>Silhouette</item>
+		<item>Grey &amp; White</item>
+		<item>Ebony &amp; Ivory</item>
+		<item>Khaki</item>
+		<item>Blank</item>
+	</string-array>
+	<string-array name="instruments">
+		<item>Piano</item>
+		<item>Organ</item>
+	</string-array>
+	<string-array name="layouts">
+		<item>Jammer</item>
+		<item>Sonome</item>
+		<item>Janko</item>
+	</string-array>
+	<string-array name="key_labels">
+		<item>English</item>
+		<item>Deutsch</item>
+		<item>MIDI Note Number</item>
+		<item>None</item>
+		<item>Solfege</item>
+		<item>Whole Tone Number</item>
+	</string-array>
+	<string-array name="base_octaves">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+	</string-array>
+	<string-array name="janko_row_counts">
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+	</string-array>
+	<string name="prompt_preferences">Preferences</string>
+	<string name="prompt_inneract">Support Hexiano</string>
+	<string name="prompt_color_scheme">Colour Scheme</string>
+	<string name="prompt_instrument">Instrument</string>
+	<string name="prompt_label_type">Labels</string>
+	<string name="prompt_layout">Layout</string>
+	<string name="prompt_janko_row_count">Rows per Octave</string>
+	<string name="summary_janko_row_count">Number of rows of whole-step keys to include for each octave.</string>
+	<string name="copyright2">This is Created and Programmed By SATHISH.V</string>
+	<string name="heading_jammer">SATHISH</string>
+	<string name="heading_sonome">MUNNA(nick name)</string>
+	<string name="heading_janko">DUSTAKAR</string>
+	<string name="default_sonome_note">E</string>
+	<string name="default_sonome_octave">1</string>
+	<string name="default_jammer_note">F#</string>
+	<string name="default_jammer_octave">6</string>
+	<string name="default_janko_note">F</string>
+	<string name="default_janko_octave">5</string>
+	<string name="default_janko_row_count">4</string>
+	<string name="prompt_orientation">Orientation</string>
+	<string-array name="orientations">
+		<item>Landscape</item>
+		<item>Portrait</item>
+	</string-array>
+	<string name="default_sonome_orientation">Portrait</string>
+	<string name="default_jammer_orientation">Landscape</string>
+	<string name="default_janko_orientation">Landscape</string>
+	<string name="prompt_scale">Key Size</string>
+	<string name="default_scale">78</string>
+	<string name="heading_general">General</string>
+	<string name="summary_scale">Enter percentage to scale keys. Default = 100. Smaller numbers shrink keys. Larger numbers expand them.</string>
+	<string name="prompt_landscape_labels">Landscape</string>
+	<string name="summary_label_type">What labels do you want to see on the keys?</string>
+	<string name="summary_color_scheme">What colours do you want to see?</string>
+	<string name="summary_instrument">What sounds do you want to hear?</string>
+	<string name="summary_landscape">Do you want to play looking at a landscape (wide) display?</string>
+	<string name="summary_layout">What note arrangement on the keys do you want to use?</string>
+	<string name="summary_highest_note_octave">The octave of the highest note to include.</string>
+	<string name="summary_lowest_note">The lowest playable note to include.</string>
+	<string name="summary_highest_note">The highest playable note to include.</string>
+	<string name="prompt_lowest_note">Lowest Note</string>
+	<string name="prompt_lowest_note_octave">Lowest Note Octave</string>
+	<string name="prompt_highest_note">Highest Note</string>
+	<string name="summary_lowest_note_octave">The octave of the lowest playable note to include.</string>
+	<string name="prompt_highest_note_octave">Highest Note Octave</string>
+	<string name="prompt_single_touch_chording">Single-touch Chording</string>
+	<string name="summary_single_touch_chording">Play adjacent notes with one finger (4ths and 5ths).</string>
+	<string name="prompt_about">About Hexiano</string>
+	<string name="prompt_license">License</string>
+	<string name="prompt_quit">Exit</string>
+	<string name="version">version</string>
+	<string name="description">Hexiano is an isomorphic musical keyboard. All intervals, chords, and scales have identical patterns, regardless of the key in which one plays. Hexiano aims to deliver the isomorphic keyboard concept to Android users..</string>
+	<string name="open_source">Source Code is Available with SATHISH</string>
+	<string name="distribution"></string>
+	<string name="license">This Program orginally copy is available with SATHISH...  Contact him For the same and Let him know how much can be rated to THese apps... 
+	    Its His First Ever made ANDROID app</string>
+	<string name="credit_piano">Sounds from the acoustic grand piano soundfont (Yamaha Disklavier Pro), release 2008-09-10,
+by Roberto Gordo Saez (roberto.gordo@gmail.com), were adapted for use in Hexiano. (See http://zenvoid.org/audio.html.)
+Specifically, we translated a set of files (mostly from the third velocity layer) from the soundfont into Ogg Vorbis format, with
+a rather drastic loss of fidelity. Please do not take the Hexiano piano sound as representative
+of the quality of this excellent soundfont. It just helped to start from a high-quality source.
+
+
+
+
+</string>
+	<string name="analytics_notice">To improve the quality of our application, we reserve the right to track and report user activity inside IsoKeys. All data collected will be anonymous. We respect your privacy and will not collect any information to identify you personally.</string>
+	<string name="prompt_key_orientation">Key Orientation</string>
+	<string name="summary_key_orientation">Horizontal keys "point up and down"; vertical keys "point left and right."</string>
+	<string-array name="key_orientations">
+		<item>Horizontal</item>
+		<item>Vertical</item>
+	</string-array>
+	<string name="default_sonome_key_orientation">Vertical</string>
+	<string name="default_jammer_key_orientation">Horizontal</string>
+	<string name="default_janko_key_orientation">Horizontal</string>
+	
+	
+	
+	
+	
+	
+  <string name="copyright3">Copyright SATHISH</string>
+  <string name="licence"></string>
+
+  <string name="error_buffer">Error from audio recording! Cannot find a working input sample rate.</string>
+  <string name="error_init">Audio recorder not initialised! Maybe a working input sample rate could not be found.</string>
+
+  <string name="action_bright_line">Bright Line</string>
+  <string name="action_single_shot">Single Shot</string>
+  <string name="action_trigger">Trigger</string>
+  <string name="action_polarity">Sync Polarity</string>
+  <string name="action_timebase">Timebase</string>
+  <string name="action_storage">Storage</string>
+  <string name="action_clear">Clear</string>
+  <string name="action_left">Left</string>
+  <string name="action_right">Right</string>
+  <string name="action_start">Start</string>
+  <string name="action_end">End</string>
+  <string name="action_setting">Settings</string>
+
+  <string name="tb0.1ms">0.1 ms</string>
+  <string name="tb0.2ms">0.2 ms</string>
+  <string name="tb0.5ms">0.5 ms</string>
+  <string name="tb1.0ms">1.0 ms</string>
+  <string name="tb2.0ms">2.0 ms</string>
+  <string name="tb5.0ms">5.0 ms</string>
+  <string name="tb10ms">10 ms</string>
+  <string name="tb20ms">20 ms</string>
+  <string name="tb50ms">50 ms</string>
+  <string name="tb0.1sec">0.1 sec</string>
+  <string name="tb0.2sec">0.2 sec</string>
+  <string name="tb0.5sec">0.5 sec</string>
+
+  <string name="bright_on">Bright line on</string>
+  <string name="bright_off">Bright line off</string>
+  <string name="single_on">Single shot on</string>
+  <string name="single_off">Single shot off</string>
+  <string name="sync_pos">Sync positive</string>
+  <string name="sync_neg">Sync negative</string>
+  <string name="storage_on">Storage on</string>
+  <string name="storage_off">Storage off</string>
+
+  <string name="pref_about">About</string>
+  <string name="pref_about_summ">Scope version %s</string>
+  
+  
+  
+  
+  
+ 
+    <string name="add_more">Add more accents…</string>
+
+    <!-- Properties dialog -->
+    <string name="pitch">Pitch</string>
+    <string name="speed">Speed</string>
+    <string name="speak_while_typing">Speak while typing</string>
+    <string name="use_larger_font">Use larger font</string>
+
+    <!-- Other stuff? -->
+    <string name="share_to">Share to…</string>
+    <string name="menu_properties">Properties</string>
+    <string name="failed_init">Failed to initialize speech synthesizer</string>
+    <string name="album_name">Saved Speech</string>
+    <string name="install_data_title">Install Language data?</string>
+    <string name="install_data_message">Type and Speak requires speech synthesis data.\n\nPlease check your SD card (if applicable) and click OK to download synthesis data for your text-to-speech engine.</string>
+    <string name="save_file_message">Title for saved speech?</string>
+    <string name="no_write_title">Error</string>
+    <string name="no_write_message">Could not write %s.wav to SD card!</string>
+    <string name="exists_title">Error</string>
+    <string name="exists_message">File %s.wav already exists on SD card!</string>
+    <string name="saving_title">Please wait…</string>
+    <string name="saving_message">Saving speech to SD card as %s.wav</string>
+    <string name="canceled_title">Save Canceled</string>
+    <string name="canceled_message">Canceled saving speech to SD card.</string>
+    <string name="saved_title">Saved as WAV</string>
+    <string name="saved_message">Speech has been saved to SD card as %s. It has also been added to the device media library.</string>
+    <string name="play">Play</string>
+    <string name="label_library">Library</string>
+
+    <!-- Library item menu -->
+    <string name="menu_delete">Delete</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_ringtone">Set as ringtone</string>
+    <string name="set_ringtone">Set ringtone</string>
+
+    <!-- Main menu -->
+    <string name="menu_language">Accent</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_library">Library</string>
+    <string name="menu_play">Speak</string>
+    <string name="play_allcaps">SPEAK</string>
+    <string name="flag">Flag</string>
+    <string name="input_hint">File name</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="rewind">Previous</string>
+    <string name="fast_forward">Next</string>
+    <string name="resume">Resume</string>
+    <string name="failed_extraction">Failed to extract content from %s</string>
+    <string name="tts_failed">Text-to-speech Error</string>
+    <string name="cannot_install_tts_data">Sorry, Type and Speak was unable to install text-to-speech data.</string>
+    <string name="no_saved_speech">It looks like you haven\'t saved any speech.\n\nUse the save icon to save your speech.</string>
+    <string name="date_at_time">%1$s at %2$s</string>
+    <string name="more_content_description">More actions</string>
+    <string name="confirm_clear">Clear entered text?</string>
+    <string name="confirm_delete_message">Delete saved speech \"%s\"?</string>
+    <string name="confirm_ringtone_message">Set default ringtone to \"%s\"?</string>
+    <string name="no_text_entered">No text entered…</string>
+    <string name="cancel">Cancel</string>
+    
+    <string name="clear">Clear</string>
+    <string name="delete">Delete</string>
+    <string name="extracting_title">Please wait…</string>
+    <string name="extracting_message">Extracting text from URL.</string>
+    <string name="title_activity_developer">Developer</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+
+</resources>

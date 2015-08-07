@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    
+    
+<item android:id="@+id/prevEntry"
+          android:title="@string/prevEntry" />
+    <item android:id="@+id/nextEntry"
+          android:title="@string/nextEntry" />
+    <item android:id="@+id/today"
+          android:title="@string/today" />
+    <item android:id="@+id/goToDate"
+          android:title="@string/goToDate" />
+    <item android:id="@+id/copyleft"
+          android:title="@string/copyleft" />
+    
+
+</menu>
+<!-- From: file:/D:/AndroidProjects/SathishApp/app/src/main/res/menu/diaryyy.xml -->
